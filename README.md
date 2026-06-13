@@ -40,7 +40,7 @@ A useful tool for motor design is [OpenMotor](https://github.com/reilleya/openMo
 
 <img width="1301" height="878" alt="image" src="https://github.com/user-attachments/assets/25ed67b2-51c2-45e5-b808-285b8c0701cc" />
 
-Never thrust the trust curve alone, especially as a beginner, you will not reach the quality that the simulation assumes. Air bubbles, moisture, etc. can affect the performance of your grain. I strongly advise testing performance on a thrust stand.
+Never trust the trust curve alone, especially as a beginner, you will not reach the quality that the simulation assumes. Air bubbles, moisture, etc. can affect the performance of your grain. I strongly advise testing performance on a thrust stand.
 
 ### CAD
 
