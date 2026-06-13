@@ -18,11 +18,12 @@ The most important things here are to get an idea of what build you are going fo
 This is where it all started for me, I wanted a way to test my parachutes.
 First you would use calculations to decide on the needed drag coefficient and size to get a certain landing speed.
 
-Below an example is shown, for this design, we would need a chute with a diameter of at least 20cm.
+Below an example is shown, for this design, we would need a chute with a diameter of at least 20cm. (the used tool is the custom HTML script DragCalc_maxq.html)
 
 <img width="296" height="721" alt="image" src="https://github.com/user-attachments/assets/c06a94e9-9e76-4587-859f-4db0381441ea" />
 
 Next you could use a tool like [OpenChute](https://github.com/ElvinC/openchute) to design the parachute.
+
 <img width="1546" height="1156" alt="image" src="https://github.com/user-attachments/assets/a867443d-41e2-4732-bd5a-41a3a12ddef4" />
 
 Want to learn more or need inspiration? Parachute Recovery Systems Design Manual by Theo W. Knacke
